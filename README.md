@@ -14,7 +14,6 @@ git clone --recursive https://github.com/aydenjahola/dotfiles.git $HOME/dotfiles
 
 Requires GNU Stow.
 ```
-
 cd $HOME/dotfiles
 # to add all configs:
 stow */
