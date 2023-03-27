@@ -119,3 +119,5 @@ alias la='exa -al --icons --color=always --group-directories-first'  # all files
 alias ll='exa -l --icons --color=always --group-directories-first'  # long format
 alias lt='exa -aT --icons --color=always --group-directories-first' # tree listing
 alias l.='exa -a --icons | egrep "^\."'
+
+fortune
