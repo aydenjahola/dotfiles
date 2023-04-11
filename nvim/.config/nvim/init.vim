@@ -49,6 +49,7 @@ Plug 'https://github.com/haringsrob/nvim_context_vt'
 Plug 'sbdchd/neoformat' " usage: Neoformat
 Plug 'github/copilot.vim'
 Plug 'samirettali/shebang.nvim'
+Plug 'preservim/vim-markdown'
 
 call plug#end()
 
