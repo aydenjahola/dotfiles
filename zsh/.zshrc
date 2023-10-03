@@ -103,8 +103,6 @@ source $ZSH/oh-my-zsh.sh
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-export EINSTEIN_USERNAME='jaholaa2'
-
 # pnpm
 export PNPM_HOME="/home/ayden/.local/share/pnpm"
 export PATH="$PNPM_HOME:$PATH"
@@ -121,3 +119,8 @@ alias lt='exa -aT --icons --color=always --group-directories-first' # tree listi
 alias l.='exa -a --icons | egrep "^\."'
 
 fortune
+
+# Created by `pipx` on 2023-09-23 13:24:46
+export PATH="$PATH:/home/ayden/.local/bin"
+
+export EINSTEIN_USERNAME="jaholaa2"

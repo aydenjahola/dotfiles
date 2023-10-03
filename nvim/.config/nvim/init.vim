@@ -34,7 +34,6 @@ call plug#begin()
 Plug 'https://github.com/vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'ryanoasis/vim-devicons'
-Plug 'https://github.com/neoclide/coc.nvim'
 Plug 'https://github.com/glepnir/dashboard-nvim'
 Plug 'https://github.com/junegunn/fzf.vim'
 Plug 'https://github.com/tpope/vim-commentary'
@@ -50,6 +49,9 @@ Plug 'sbdchd/neoformat' " usage: Neoformat
 Plug 'github/copilot.vim'
 Plug 'samirettali/shebang.nvim'
 Plug 'preservim/vim-markdown'
+Plug 'neovim/nvim-lspconfig'
+Plug 'jose-elias-alvarez/null-ls.nvim'
+Plug 'MunifTanjim/prettier.nvim'
 
 call plug#end()
 
