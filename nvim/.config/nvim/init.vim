@@ -19,7 +19,7 @@ set hidden
 set cmdheight=1
 set termguicolors
 set ignorecase
-set clipboard=unnamedplus
+set clipboard+=unnamedplus
 set nocompatible
 
 highlight Normal guibg=none
