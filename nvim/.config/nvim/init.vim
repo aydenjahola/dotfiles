@@ -19,6 +19,7 @@ set hidden
 set cmdheight=1
 set termguicolors
 set ignorecase
+set clipboard=unnamedplus
 set nocompatible
 
 highlight Normal guibg=none
@@ -66,3 +67,4 @@ nnoremap <leader>n :NERDTreeFocus<CR>
 nnoremap <C-n> :NERDTree<CR>
 nnoremap <C-t> :NERDTreeToggle<CR>
 nnoremap <C-f> :NERDTreeFind<CR>
+
