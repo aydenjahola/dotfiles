@@ -124,3 +124,4 @@ fortune
 export PATH="$PATH:/home/ayden/.local/bin"
 
 export EINSTEIN_USERNAME="jaholaa2"
+
