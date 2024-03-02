@@ -1,0 +1,3 @@
+[submodule ".oh-my-zsh/.git/dotfiles"]
+	path = .oh-my-zsh/.git/dotfiles
+	url = git@github.com:aydenjahola/dotfiles.git
