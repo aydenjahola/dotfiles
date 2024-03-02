@@ -25,7 +25,7 @@ yadm clone https://github.com/aydenjahola/dotfiles.git
 yadm clone git@github.com:aydenjahola/dotfiles.git
 ```
 
-### Showcase
+## Showcase
 
 ![alt text](imgs/image.png)
 ![alt text](imgs/image-1.png)
