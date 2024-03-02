@@ -109,7 +109,7 @@ export PATH="$PNPM_HOME:$PATH"
 export PATH=$PATH:/usr/local/bin
 # pnpm end
 
-eval $(thefuck --alias)
+eval $(fuck --alias)
 
 # exa instead of ls
 alias ls='exa -a --icons --color=always --group-directories-first' # my preferred listing
