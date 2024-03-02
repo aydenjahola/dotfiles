@@ -1,0 +1,4 @@
+#!/home/ayden/dcu/redbrick/racing-ai/Reactive-Methods-Workshop/racingai-gym-quickstart/venv/bin/python
+# EASY-INSTALL-SCRIPT: 'numba==0.58.0','numba'
+__requires__ = 'numba==0.58.0'
+__import__('pkg_resources').run_script('numba==0.58.0', 'numba')
