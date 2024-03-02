@@ -125,3 +125,4 @@ export PATH="$PATH:/home/ayden/.local/bin"
 
 export EINSTEIN_USERNAME="jaholaa2"
 
+pokemon-colorscripts --no-title -r 1,3,6
