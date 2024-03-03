@@ -118,7 +118,7 @@ alias ll='exa -l --icons --color=always --group-directories-first'  # long forma
 alias lt='exa -aT --icons --color=always --group-directories-first' # tree listing
 alias l.='exa -a --icons | egrep "^\."'
 
-fortune
+#fortune
 
 # Created by `pipx` on 2023-09-23 13:24:46
 export PATH="$PATH:/home/ayden/.local/bin"
