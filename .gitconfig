@@ -1,0 +1,22 @@
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential]
+	helper = store
+[user]
+	name = Ayden Jahola
+	email = jaholaayden@gmail.com
+	signingkey = /home/ayden/.ssh/sign_key.pub
+[push]
+	default = matching
+[alias]
+	co = checkout
+[init]
+	defaultBranch = master
+[gpg]
+	format = ssh
+[commit]
+	gpgsign = true
