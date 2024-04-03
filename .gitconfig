@@ -11,7 +11,7 @@
 	email = jaholaayden@gmail.com
 	signingkey = /home/ayden/.ssh/sign_key.pub
 [push]
-	default = matching
+  autosetupremote = true
 [alias]
 	co = checkout
 [init]
@@ -20,3 +20,4 @@
 	format = ssh
 [commit]
 	gpgsign = true
+
