@@ -33,7 +33,6 @@ grace=2
 grace-no-mouse
 grace-no-touch
 datestr=%a, %B %e
-timestr=%I:%M:%S %p
-fade-in=0.2
+timestr=%I:%M %p
+fade-in=0.3
 ignore-empty-password
-exec xss-lock -- swaylock
