@@ -80,7 +80,7 @@
 		"format": "{icon}",
 		"rotate": 0,
 		"icon-size": 18,
-		"icon-theme": "Tela-circle-dracula",
+		"icon-theme": "Tela-circle-pink",
         "spacing": 0,
 		"tooltip-format": "{title}",
 		"on-click": "activate",
@@ -118,7 +118,7 @@
     },
 
     "clock": {
-        "format": "{:%R 󰃭 %d·%m·%y}",
+        "format": "{:%I:%M %p 󰃭 %d·%m·%y}",
         "rotate": 0,
         "format-alt": "{:%R 󰃭 %d·%m·%y}",
         "tooltip-format": "<tt>{calendar}</tt>",
