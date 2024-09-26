@@ -6,6 +6,7 @@ alias vim=nvim
 alias cat=bat
 alias ft=fastfetch
 alias nf=neofetch
+alias lolcat=dotacat
 alias binds="Hyprdots show binds"
 alias kto="sudo pacman -Qtdq | sudo pacman -Rns -"
 
