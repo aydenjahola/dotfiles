@@ -70,7 +70,7 @@ ZSH_CUSTOM=/home/ayden/.oh-my-zsh-custom
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git sudo zsh-256color zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(git sudo zsh-256color zsh-autosuggestions zsh-syntax-highlighting zsh-interactive-cd zsh-navigation-tools terraform docker docker-compose gitignore)
 
 source $ZSH/oh-my-zsh.sh
 
